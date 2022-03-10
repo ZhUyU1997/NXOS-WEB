@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Book OS',
   tagline: '书是人类进步的阶梯',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://book-os.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
